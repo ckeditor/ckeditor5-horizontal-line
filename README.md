@@ -1,6 +1,10 @@
 CKEditor 5 horizontal line feature
 ===========================
 
+<h3 align=center>⚠⚠ This repository was moved ⚠⚠</h3>
+
+<p align=center>The package was moved to the <a href="https://github.com/ckeditor/ckeditor5/tree/master/packages">main repository</a>.</p>
+
 [![npm version](https://badge.fury.io/js/%40ckeditor%2Fckeditor5-horizontal-line.svg)](https://www.npmjs.com/package/@ckeditor/ckeditor5-horizontal-line)
 [![Dependency Status](https://david-dm.org/ckeditor/ckeditor5-horizontal-line/status.svg)](https://david-dm.org/ckeditor/ckeditor5-horizontal-line)
 [![devDependency Status](https://david-dm.org/ckeditor/ckeditor5-horizontal-line/dev-status.svg)](https://david-dm.org/ckeditor/ckeditor5-horizontal-line?type=dev)
